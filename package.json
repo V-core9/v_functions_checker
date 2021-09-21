@@ -1,0 +1,20 @@
+{
+  "name": "v_functions_checker",
+  "version": "1.0.0",
+  "description": "vFunctionsChecker is a way to verify which functions are getting triggered when you have a mess with 100 of those.",
+  "main": "v_functions_checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-core9/v_functions_checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-core9/v_functions_checker/issues"
+  },
+  "homepage": "https://github.com/V-core9/v_functions_checker#readme"
+}
